@@ -874,9 +874,7 @@ body {
         max-width: 95% !important;    /* Yazı büyüdüğü için sağa sola taşmasın diye alan açtık */
     }
 }
-/* =========================================
-   ARKA PLAN KESİN ÇÖZÜM (NÜKLEER KOD)
-   ========================================= */
+
 
 /* Tüm sayfanın arka planını zorla modern açık gri/mavi yapıyoruz */
 html, body {
@@ -887,4 +885,5 @@ html, body {
 /* Eğer ana ekranın (hero) kendi beyaz arka planı varsa onu da şeffaf yapalım ki alttaki renk görünsün */
 .hero {
     background-color: transparent !important;
+
 }
